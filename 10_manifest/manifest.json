@@ -1,0 +1,13 @@
+{
+  "name": "Konitzer Training",
+  "short_name": "KoTr",
+  "start_url": "https://konitzer-training.de/labor/02_manifest/",
+  "display": "standalone",
+  "background_color" : "#fff" ,
+  "description": "PWA.",
+  "icons": [{
+    "src": "bubbles.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}

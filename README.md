@@ -1,2 +1,0 @@
-# pwa
-For training only
