@@ -1,4 +1,4 @@
-#Progressive Web Apps 2019
+#Progressive Web Apps - 2019
 
 ## Progressive Web Apps (PWA) Grundlagen
 
